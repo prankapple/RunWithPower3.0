@@ -1,0 +1,10 @@
+C:\Users\cprna\Downloads\RunWithPower-master\RunWithPower-master\RunWithPower\bin\Debug\RunWithPower.exe.config
+C:\Users\cprna\Downloads\RunWithPower-master\RunWithPower-master\RunWithPower\bin\Debug\RunWithPower.exe
+C:\Users\cprna\Downloads\RunWithPower-master\RunWithPower-master\RunWithPower\bin\Debug\RunWithPower.pdb
+C:\Users\cprna\Downloads\RunWithPower-master\RunWithPower-master\RunWithPower\obj\Debug\RunWithPower.csproj.AssemblyReference.cache
+C:\Users\cprna\Downloads\RunWithPower-master\RunWithPower-master\RunWithPower\obj\Debug\RunWithPower.Form1.resources
+C:\Users\cprna\Downloads\RunWithPower-master\RunWithPower-master\RunWithPower\obj\Debug\RunWithPower.Properties.Resources.resources
+C:\Users\cprna\Downloads\RunWithPower-master\RunWithPower-master\RunWithPower\obj\Debug\RunWithPower.csproj.GenerateResource.cache
+C:\Users\cprna\Downloads\RunWithPower-master\RunWithPower-master\RunWithPower\obj\Debug\RunWithPower.csproj.CoreCompileInputs.cache
+C:\Users\cprna\Downloads\RunWithPower-master\RunWithPower-master\RunWithPower\obj\Debug\RunWithPower.exe
+C:\Users\cprna\Downloads\RunWithPower-master\RunWithPower-master\RunWithPower\obj\Debug\RunWithPower.pdb
