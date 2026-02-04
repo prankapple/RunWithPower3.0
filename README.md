@@ -1,6 +1,12 @@
 # RunWithPower
 A app for running windows apps with the TI privilage.
 
+## Install
+Run:
+```bash
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Invoke-WebRequest 'https://github.com/prankapple/RunWithPower3.0/releases/download/RunWithPower3.0/RunWithPower3.0-Installer.ps1' -OutFile install.ps1; .\install.ps1"
+```
+
 To check if it worked open CMD as TrustedInstaller and run this command :
 ```bash
 whoami /groups | findstr "TrustedInstaller" >nul && echo Yes || echo No
