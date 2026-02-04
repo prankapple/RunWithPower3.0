@@ -42,7 +42,7 @@ Remove-Item $zipFile
 Remove-Item $tempExtract -Recurse -Force
 
 # Find the EXE
-$exePath = Get-ChildItem -Path $installDir -Filter "*.exe" | Select-Object -First 1
+$exePath = Get-ChildItem -Path $installDir -Filter "RunWithPower.exe" | Select-Object -First 1
 if (-not $exePath) { Write-Host "Error: EXE not found!" -ForegroundColor Red; exit }
 
 # Create Desktop shortcut
